@@ -1,0 +1,12 @@
+C:\Users\Sadiq\Desktop\Memory_Game\bin\Debug\Memory_Game.exe.config
+C:\Users\Sadiq\Desktop\Memory_Game\bin\Debug\Memory_Game.exe
+C:\Users\Sadiq\Desktop\Memory_Game\bin\Debug\Memory_Game.pdb
+C:\Users\Sadiq\Desktop\Memory_Game\obj\Debug\Memory_Game.csproj.AssemblyReference.cache
+C:\Users\Sadiq\Desktop\Memory_Game\obj\Debug\Memory_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sadiq\Desktop\Memory_Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\Sadiq\Desktop\Memory_Game\obj\Debug\Memory_Game.csproj.GenerateResource.cache
+C:\Users\Sadiq\Desktop\Memory_Game\obj\Debug\Memory_Game.csproj.CoreCompileInputs.cache
+C:\Users\Sadiq\Desktop\Memory_Game\obj\Debug\Memory_Game.exe
+C:\Users\Sadiq\Desktop\Memory_Game\obj\Debug\Memory_Game.pdb
+C:\Users\Sadiq\Desktop\Memory_Game\obj\Debug\Memory_Game.Main_Menu.resources
+C:\Users\Sadiq\Desktop\Memory_Game\obj\Debug\Memory_Game.Game_Form.resources
